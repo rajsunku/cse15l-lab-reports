@@ -1,1 +1,1 @@
-![Image](https://github.com/rajsunku/cse15l-lab-reports/blob/45349b9ebd3cba0524767ab66f50a75df9cc0060/Week2SS1.PNG)
+![Image](Week2SS1.PNG)
