@@ -6,7 +6,7 @@
 
 **Pages:**
 
-* [secondFile](https://rajsunku.github.io/cse15l-lab-reports/secondFile.html)
+* [Lab Report 1](lab-report-1-week-2.html)
 
 ***
 
