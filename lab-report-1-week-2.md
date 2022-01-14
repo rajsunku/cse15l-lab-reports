@@ -16,7 +16,7 @@
 3. Open a terminal is VSCode and type `ssh cs15lwi22zz@ieng6.ucsd.edu`, where zz is the letters for your specific account, and then type your password.
 4. The output should look similar to the image below.
 
-![Image](Week2SS3.PNG)
+![Image](Week2SS3.png)
 
 ## Trying Some Commands
 
@@ -24,7 +24,7 @@
 2. Some of them include `cd`, `lws`, `pwd`, `cp`, and `mkdir`.
 3. The example below shows the command `cd f` being run, but there is no file system called `f` on the server, so it is not able to run.
 
-![Image](Week2SS4.PNG)
+![Image](Week2SS4.png)
 
 ## Moving Files with `scp`
 
@@ -44,7 +44,7 @@ class WhereAmI {
 2. Use the command `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` and type in your password to add it to the server.
 3. Then, log back in to the server to check if the file got added by using the command `ls`. The output should look like this:
 
-![Image](Week2SS5.PNG)
+![Image](Week2SS5.png)
 
 ## Setting an SSH Key
 
@@ -53,7 +53,7 @@ class WhereAmI {
 3. Use `scp` to add the key from the folder you generated to `cs15lwi22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 4. Notice, that whenever you want to log into the server on the computer you did this on, it will look like the image below. You won't have to type in the password anymore.
 
-![Image](Week2SS6.PNG)
+![Image](Week2SS6.png)
 
 ## Optimizing Remote Running
 
