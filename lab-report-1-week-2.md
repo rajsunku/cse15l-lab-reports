@@ -28,7 +28,7 @@
 
 ## Moving Files with `scp`
 
-1. Create a java file. I created a java file called `WhereAmI.java` with the following code:
+* Create a java file. I created a java file called `WhereAmI.java` with the following code:
 
 ```
 class WhereAmI {
@@ -41,8 +41,8 @@ class WhereAmI {
 }
 ```
 
-2. Use the command `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` and type in your password to add it to the server.
-3. Then, log back in to the server to check if the file got added by using the command `ls`. The output should look like this:
+1. Use the command `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` and type in your password to add it to the server.
+2. Then, log back in to the server to check if the file got added by using the command `ls`. The output should look like this:
 
 ![Image](Week2SS5.png)
 
