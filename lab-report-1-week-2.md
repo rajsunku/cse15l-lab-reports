@@ -61,5 +61,7 @@ class WhereAmI {
 2. If you use your up arrow, you can reuse previous commands you entered.
 3. It is also possible to use many commands at once, as shown in the screenshot below.
 4. Make sure to use these strategies to your advantage.
+5. In this case, it is possible to make a local edit to WhereAmI.java and copy it to the remote server to run it in just 6 keystrokes.
+6. For the first time, use the commands shown in the screenshot below. Even though it is tedious the first time, it gets saved onto the history of commands on Powershell, so all you have to so is click up arrow twice and then enter for each command when you make another change.
 
 ![Image](Week2SS7.PNG)
